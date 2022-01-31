@@ -1,0 +1,15 @@
+{
+    "translation":{
+        "welcomeMsg":"Welcome to",
+        "welcomeMsg1":"SankePal!",
+        "welcomeSubText": "Identify and better understand the snake",
+        "welcomeSubText1": "species and notify rescue teams",
+        "welcomebtnText":"Get Started",
+        "memberCheckText":"Already a member?",
+        "SignInText":"Sign in",
+
+        "onboardtext1":"Aware yourself about snake species",
+        "onboardtext2":"Identify snake species",
+        "onboardtext3":"Notify snake rescue teams",
+    }
+}

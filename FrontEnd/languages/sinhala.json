@@ -1,0 +1,17 @@
+{
+    "translation":{
+        "welcomeMsg":"SnakePal වෙත",
+        "welcomeMsg1":" සාදරයෙන් පිළිගනිමු!",
+        "welcomeSubText": "සර්ප විශේෂ හඳුනාගෙන වඩා හොඳින් තේරුම් ගෙන",
+        "welcomeSubText1": "ගලවා ගැනීමේ කණ්ඩායම් වෙත දැනුම් දෙන්න",
+        "welcomebtnText":"ආරම්භ කරන්න",
+        "memberCheckText":"දැනටමත් සාමාජිකයෙක්ද?",
+        "SignInText":"ඇතුල් වන්න",
+
+        "onboardtext1":"සර්ප විශේෂ පිළිබඳව දැනුවත් වන්න",
+        "onboardtext2":"සර්ප විශේෂ හඳුනා ගන්න",
+        "onboardtext3":"සර්පයින් බේරා ගැනීමේ කණ්ඩායම් වෙත දැනුම් දෙන්න",
+
+        "profileText":"sdsd"
+    }
+}
